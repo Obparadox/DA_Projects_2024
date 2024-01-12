@@ -1,0 +1,22 @@
+In this Project : 
+
+1. I selected all the data and filtered if there is any blank cell or not 
+2. Checked and removed duplicates
+3. Found Independent and dependent variables 
+      
+	  Independent Variables  = Sex, Smoker	, Day , Time , 	size, total_bill
+	  Depended variable = Tips
+	  
+		
+		
+4. Used Multiple regression analysis to obtain data model as shown in screenshots and excel files
+
+5. Converted categorical values into numerical using IFS condition
+
+5. Then using predictive analysis multiple regression formula, found the predicitve tips along side actual ones 
+
+6. Then found errors in next column
+
+7. Finally calculated RMSE 
+
+Thank you 
